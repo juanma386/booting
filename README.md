@@ -1,0 +1,2 @@
+# booting
+Bootstrap lead init
